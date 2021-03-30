@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rockbox-scrobbler/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rockbox-scrobbler/static/js/main.66ba80d2.chunk.js",
+    "main.js.map": "/rockbox-scrobbler/static/js/main.66ba80d2.chunk.js.map",
+    "runtime-main.js": "/rockbox-scrobbler/static/js/runtime-main.39a96189.js",
+    "runtime-main.js.map": "/rockbox-scrobbler/static/js/runtime-main.39a96189.js.map",
+    "static/js/2.461ce494.chunk.js": "/rockbox-scrobbler/static/js/2.461ce494.chunk.js",
+    "static/js/2.461ce494.chunk.js.map": "/rockbox-scrobbler/static/js/2.461ce494.chunk.js.map",
+    "static/js/3.67b49451.chunk.js": "/rockbox-scrobbler/static/js/3.67b49451.chunk.js",
+    "static/js/3.67b49451.chunk.js.map": "/rockbox-scrobbler/static/js/3.67b49451.chunk.js.map",
+    "index.html": "/rockbox-scrobbler/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rockbox-scrobbler/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.461ce494.chunk.js.LICENSE.txt": "/rockbox-scrobbler/static/js/2.461ce494.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rockbox-scrobbler/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39a96189.js",
+    "static/js/2.461ce494.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.66ba80d2.chunk.js"
+  ]
+}
